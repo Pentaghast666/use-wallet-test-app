@@ -1,0 +1,8 @@
+{
+    "receiveWallet": "MONEYMBRSMUAM2NGL6PCEQEDVHFWAQB6DU47NUS6P5DJM4OJFN7E7DSVBA",
+    "shipping":20,
+    "network":{
+        "node": { "server":"https://testnet-api.algonode.network/", "port":"443", "token":""},
+        "indexer": { "server":"https://testnet-idx.algonode.cloud", "port":"443", "token":""}
+    }
+}
